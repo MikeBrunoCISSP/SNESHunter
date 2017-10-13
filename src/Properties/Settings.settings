@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="snesclassicalert.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Merchants" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;thinkgeek,http://www.thinkgeek.com/product/kmrn/?srp=5,IN STOCK&lt;/string&gt;
+  &lt;string&gt;BH,https://www.bhphotovideo.com/c/product/1347308-REG/nintendo_snes_super_nintendo_classic_edition.html,TYPE="SUBMIT"&amp;gt;ADD TO CART&amp;lt;/BUTTON&amp;gt;&lt;/string&gt;
+  &lt;string&gt;Amazon,https://www.amazon.com/Super-NES-Classic-nintendo/dp/B0721GGGS9/ref=sr_1_3?s=videogames&amp;amp;ie=UTF8&amp;amp;qid=1506823304&amp;amp;sr=1-3&amp;amp;keywords=super+nes+classic,&amp;amp;quot;79.99&amp;amp;quot&lt;/string&gt;
+  &lt;string&gt;GameStop,https://www.gamestop.com/snes/consoles/super-nes-classic-edition/152771,&amp;lt;a onclick="AddToCartClicked(this);&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Write_GET_Responses_To_Files" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="HTML_Output_Directory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp</Value>
+    </Setting>
+    <Setting Name="Sleep_Timer_In_Minutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
